@@ -5,4 +5,4 @@
 layout: default
 ---
 
-![EcoGnome](assets/img/ecognome-logo.png "EcoGnome")
+<img src="assets/img/ecognome-logo.png" alt="EcoGnome" title="EcoGnome" style="display: block; margin-left: auto;margin-right: auto; width: 60%;">
