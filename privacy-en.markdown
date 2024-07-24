@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Privacy
-permalink: /privacy/
-lange: en
+permalink: /en/privacy/
 ---
 
 ## “EcoGnome” Privacy Policy

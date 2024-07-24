@@ -20,8 +20,8 @@
 
 title: EcoGnome
 author: Orange Innovation - 2024
-baseurl: "EcoGnome_website" # the subpath of your site, e.g. /blog
-url: "https://eimji.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ecognome.fr" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 header_pages:
@@ -51,8 +51,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-languages: ["en", "fr"]
-default_lang: "en"
-exclude_from_localization: ["javascript", "images", "css", "public"]
-parallel_localization: true

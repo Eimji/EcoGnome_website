@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Données personnelles
-permalink: /privacy/
-lang: fr
+permalink: /fr/privacy/
 ---
 
 ## Notice Données à caractère personnel «&nbsp;EcoGnome&nbsp;»
