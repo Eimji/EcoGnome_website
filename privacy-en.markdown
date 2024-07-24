@@ -2,6 +2,7 @@
 layout: page
 title: Privacy
 permalink: /privacy/
+lange: en
 ---
 
 ## “EcoGnome” Privacy Policy
