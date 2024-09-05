@@ -6,6 +6,12 @@ permalink: /fr/changelog/
 
 ## Changelog
 
+### Version 1.0.2
+
+05/09/2024
+
+Cette nouvelle version corrige des problèmes sur l'interface graphique.
+
 ### Version 1.0.1
 
 31/07/2024
