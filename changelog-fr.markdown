@@ -6,6 +6,13 @@ permalink: /fr/changelog/
 
 ## Changelog
 
+### Version 1.0.3
+
+09/09/2024
+
+Cette version apporte quelques améliorations pour vous proposer une meilleure
+expérience utilisateur.
+
 ### Version 1.0.2
 
 05/09/2024
