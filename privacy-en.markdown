@@ -21,10 +21,24 @@ carbon footprint and the eco-performance of the mobile applications installed on
 of his/her Device. The Service also guides the User for a more eco-responsible
 usage of his/her Device.
 
-### What personal data is collected?
+### Why does ORANGE INNOVATION process personal data and under what legal basis?
 
-No personal data is collected or processed by the Service. Everything EcoGnome
-does stays locally and uniquely on the User device.
+Processing is carried out on the basis of legitimate interest.
+
+| Purpose | Legal basis |
+| --------- | ---------- |
+| User consultation of the data of the Android operating | This processing is based on the execution of the GCU. |
+
+### Which personal data is needed in the context of the Service?
+
+The personal data that ORANGE INNOVATION processes as part of the Service is the
+data of the Android operating system. The Service does not collect or store any
+personal data, but only a treatment in the form of access.
+
+### Who has access to the User’s personal data?
+
+The data is neither collected nor stored and only the User has access to it
+(the data only remains in the User terminal).
 
 ### Data Protection Officer contact details
 
@@ -43,4 +57,4 @@ CS 70222 92449 Issy-les-Moulineaux Cedex
 
 This Privacy Policy may be subject to amendments.
 
-**Last update: July 24th 2024**
+**Last update: November 15th 2024**
