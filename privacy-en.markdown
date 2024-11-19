@@ -37,8 +37,8 @@ personal data, but only a treatment in the form of access.
 
 ### Who has access to the User’s personal data?
 
-The data is neither collected nor stored and only the User has access to it
-(the data only remains in the User terminal).
+The data is neither collected nor stored and only the User can consult this data
+on his/her Terminal as part of the Service.
 
 ### Data Protection Officer contact details
 
@@ -57,4 +57,4 @@ CS 70222 92449 Issy-les-Moulineaux Cedex
 
 This Privacy Policy may be subject to amendments.
 
-**Last update: November 15th 2024**
+**Last update: November 19th 2024**

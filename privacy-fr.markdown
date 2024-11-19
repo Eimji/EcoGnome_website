@@ -41,8 +41,7 @@ uniquement un traitement sous forme d’accès.
 ### Qui a accès aux données à caractère personnel de l’Utilisateur/Utilisatrice&nbsp;?
 
 Les données ne sont ni collectées ni conservées et seul(e)
-l’Utilisateur/Utilisatrice y a accès (toutes les données restent dans le Terminal
-de l’Utilisateur/Utilisatrice).
+l’Utilisateur/Utilisatrice les consulte sur son Terminal dans le cadre du Service.
 
 ### Coordonnées du Délégué à la protection des données
 
@@ -62,4 +61,4 @@ CS 70222 92449 Issy-les-Moulineaux Cedex
 
 La présente Notice Données à caractère personnel peut être amenée à évoluer.
 
-**Dernière mise à jour&nbsp;: 15/11/2024**
+**Dernière mise à jour&nbsp;: 19/11/2024**
