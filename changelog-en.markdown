@@ -6,6 +6,12 @@ permalink: /en/changelog/
 
 ## Changelog
 
+### Version 1.0.4
+
+21/11/2024
+
+Minor bug fixes.
+
 ### Version 1.0.3
 
 09/09/2024
