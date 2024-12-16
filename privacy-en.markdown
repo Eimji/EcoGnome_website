@@ -27,7 +27,7 @@ Processing is carried out on the basis of legitimate interest.
 
 | Purpose | Legal basis |
 | --------- | ---------- |
-| User consultation of the data of the Android operating | This processing is based on the execution of the GCU. |
+| User consultation of the data of the Android operating system | This processing is based on the execution of the GCU. |
 
 ### Which personal data is needed in the context of the Service?
 
